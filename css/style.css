@@ -415,9 +415,11 @@ a:focus {
           align-items: center;
   text-align: center;
   margin-top: 45px;
-  background-color: #f8f8f9;
+  background-color: rgb(0, 32, 74);
+  color: #ffffff;
   padding: 20px;
   border-radius: 5px;
+  min-height: 300px;
 }
 
 .service_section .box .img-box {
